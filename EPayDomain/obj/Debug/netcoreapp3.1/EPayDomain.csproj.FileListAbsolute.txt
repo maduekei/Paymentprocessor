@@ -1,0 +1,26 @@
+C:\Users\bleva\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.csprojAssemblyReference.cache
+C:\Users\bleva\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.AssemblyInfoInputs.cache
+C:\Users\bleva\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.AssemblyInfo.cs
+C:\Users\bleva\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.csproj.CoreCompileInputs.cache
+C:\Users\bleva\source\repos\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.deps.json
+C:\Users\bleva\source\repos\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.dll
+C:\Users\bleva\source\repos\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.pdb
+C:\Users\bleva\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.dll
+C:\Users\bleva\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.pdb
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.deps.json
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.dll
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.pdb
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.AssemblyInfoInputs.cache
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.AssemblyInfo.cs
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.dll
+C:\Users\Ifeyinwa Chinelo\source\repos\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.pdb
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.deps.json
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.dll
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\bin\Debug\netcoreapp3.1\EPayDomain.pdb
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.csprojAssemblyReference.cache
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.AssemblyInfoInputs.cache
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.AssemblyInfo.cs
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.dll
+C:\Users\Ifeyinwa Chinelo\Desktop\Books\EPayment\EPayDomain\obj\Debug\netcoreapp3.1\EPayDomain.pdb
