@@ -28,7 +28,7 @@ namespace EPayDomain.Model
 
         [Required]
         [PositiveDecimal(ErrorMessage = "Amount must be positive")]
-        public Decimal Amount { get; set; }
+        public decimal Amount { get; set; }
     }
 }
 
