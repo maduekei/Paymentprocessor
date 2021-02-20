@@ -9,7 +9,7 @@ namespace EPayDomain.Model
 {
     public class PaymentRequest //DTO
     {
-              
+             // This is a dto model to manage requests
 
         [Required(ErrorMessage = "Card Number is required")]
         [RegularExpression(@"([0-9]{4}\s?){4}", ErrorMessage = "Invalid Credit Card Number")]
