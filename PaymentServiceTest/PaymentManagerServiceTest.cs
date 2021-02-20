@@ -16,11 +16,7 @@ namespace PaymentServiceTest
 
     public class PaymentManagerServiceTest
     {
-        // private  Mock<IPaymentManager> _payment;
-        //private readonly IRoutePaymentGateway _rout;
-        //private readonly IPaymentRepository _payment;
-        //private readonly IPaymentTransactionRepository _paymenttransaction;
-        //private readonly IMapper _mapper;
+         
 
 
         private IPaymentManager _payment;
@@ -42,10 +38,7 @@ namespace PaymentServiceTest
         public async Task RequestPayment_InsufficientBalance_ShouldFail()
         {
             //Arrange 
-            // private  Mock<IPaymentManager> _payment;
-            //private readonly IRoutePaymentGateway _rout;
-            //private readonly IPaymentRepository _payment;
-            //private readonly IPaymentTransactionRepository _paymenttransaction;
+           
             var mockMapper = new Mock<IMapper>();
             var mockRoutePaymentGateway = new Mock<IRoutePaymentGateway>();
             var mockPaymentRepository = new Mock<IPaymentRepository>();

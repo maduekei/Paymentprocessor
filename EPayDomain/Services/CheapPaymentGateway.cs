@@ -10,7 +10,7 @@ namespace EPayDomain.Services
 {
     public class CheapPaymentGateway : ICheapPaymentGateway, IPaymentService
     {
-        private decimal minimumAmount = 5; //this is dummy just to mimmic scenerio where a card holder is paying too little amount
+        private decimal minimumAmount = 5; //this is dummy just to mimmic scenerio to display faile, processed, and pending
     public async Task<PaymentResponse> ProcessPaymentAsync(PaymentRequest model)
         {
            return await ProcessPaymentWithCheapGateway(model);            

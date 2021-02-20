@@ -4,7 +4,6 @@ using EPayDomain.Utilities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -18,14 +17,14 @@ namespace EPayProcessorGateway.Controllers
     public class PaymentController : ControllerBase
     {
         private readonly IPaymentManager _payment;
-        private readonly ILogger _logger;
-        public PaymentController(IPaymentManager payment, ILogger logger)
+       
+        public PaymentController(IPaymentManager payment)
         {
             _payment = payment;
-            _logger = logger;
+             
         }
 
-       // [HttpPost("ProcessPayment")]
+       
         [HttpPost]
         public async Task<IActionResult> ProcessPayment([FromBody] PaymentRequest model)
         {
@@ -39,7 +38,7 @@ namespace EPayProcessorGateway.Controllers
                 catch (Exception ex)
                 {
                    // 
-                   _logger.LogError(ex, "An error occured while creating the Db.");
+                     
 
                     return StatusCode(500); // Something went wrong
                 }
@@ -49,7 +48,7 @@ namespace EPayProcessorGateway.Controllers
             else
             {
                 
-                _logger.LogWarning("Warning", "Your Model was invalid");
+                
                 return BadRequest("Error 400"); // 400
             }
 
