@@ -13,7 +13,8 @@ namespace EPayDomain.Services
         {
             if (amount< 20)
             {
-                return new CheapPaymentGateway();
+                return new CheapPaymentGateway();  
+
 
             }
             else if (amount >=20 && amount<=500)
@@ -29,6 +30,7 @@ namespace EPayDomain.Services
            
 
             throw new ArgumentException("No processor to precess this amount");
+
 
         }
 
